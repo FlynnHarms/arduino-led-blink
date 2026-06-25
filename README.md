@@ -2,12 +2,17 @@
 My first arduino code ever written that blinks an led in series with a resistor.
 
 #Components:
+
 -Arduino Mega 2560 with USB Connector
+
 -Red LED
+
 -330 Ohm Resistor
+
 -Wire Connectors
 
 #Software
+
 Arduino IDE
 
 #Code
