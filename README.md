@@ -1,6 +1,7 @@
 # arduino-led-blink
 My first arduino code ever written that blinks an led in series with a resistor.
 
+
 #Components:
 
 -Arduino Mega 2560 with USB Connector
@@ -11,9 +12,11 @@ My first arduino code ever written that blinks an led in series with a resistor.
 
 -Wire Connectors
 
+
 #Software
 
 Arduino IDE
+
 
 #Code
 
@@ -39,6 +42,7 @@ delay(1000);
 
 }
 
+
 #HOW TO
 
 -Wire pin 13 of Arduino to anode of LED(The long end).
@@ -51,9 +55,11 @@ delay(1000);
 
 -Compile and run
 
+
 #Summary
 
 In this simple first adventure with the Arduino mega I wrote some simple code that blinks an LED on and off. I connected the Arduino Mega 2560 pin 13 to the anode end of the LED and placed a resistor in series after that is connected to arduino GND pin. Then sent the code to create the blinking effect. First setting the output pin and then run through a continuous loop of sneding high and low signals to the circuit to turn blink the LED on and OFF.
+
 
 #SETUP
 
