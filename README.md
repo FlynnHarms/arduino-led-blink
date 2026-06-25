@@ -35,7 +35,7 @@ delay(1000);
 In this simple first adventure with the Arduino mega I wrote some simple code that blinks an LED on and off. I connected the Arduino Mega 2560 pin 13 to the anode end of the LED and placed a resistor in series after that is connected to arduino GND pin. Then sent the code to create the blinking effect. First setting the output pin and then run through a continuous loop of sneding high and low signals to the circuit to turn blink the LED on and OFF.
 
 #SETUP
-<img width="3024" height="4032" alt="ARDUINOLED" src="https://github.com/user-attachments/assets/862d2a6c-ab61-4835-a6f0-b482325ed776" />
+<img width="400" height="533" alt="ARDUINOLED" src="https://github.com/user-attachments/assets/862d2a6c-ab61-4835-a6f0-b482325ed776" />
 Above is an image of the setup of the circuit.
 
 
